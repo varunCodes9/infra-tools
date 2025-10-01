@@ -11,7 +11,7 @@ def parse_logs(file_path):
                     warning_count += 1
                 if "INFO" in lines:
                     info_count += 1
-        print(f"Total ERROR lines: {error_count}")
+        print(f"Total ERROR lines found: {error_count}")
         print(f"Total WARNING lines: {warning_count}")
         print(f"Total INFO lines: {info_count}")
 
