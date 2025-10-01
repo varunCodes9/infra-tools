@@ -1,4 +1,3 @@
 echo "__pycache__/
-*.log
 .venv/
 " > .gitignore
