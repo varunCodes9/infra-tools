@@ -1,0 +1,6 @@
+INFO Starting service
+ERROR Connection failed
+INFO Retrying
+ERROR Timeout occurred
+WARNING Timeout can occurred
+INFO Service stopped
